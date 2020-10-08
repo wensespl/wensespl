@@ -3,9 +3,9 @@ I am a Computer Science student interested in Deep Learning (DL).
 
 ## Github Stats
 
-[![Wencez432's github stats](https://github-readme-stats.vercel.app/api?username=wencez432&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Wencez432's github stats](https://github-readme-stats.vercel.app/api?username=wencez432&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wencez432&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wencez432&theme=radical)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/wencez432)
 
