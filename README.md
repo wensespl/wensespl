@@ -1,5 +1,5 @@
 ## Hi 👋 I am Wenses!
-I am a Computer Science student interested in Deep Learning (DL).
+I'm a Computer Science student interested in Deep Learning (DL).
 
 ## Github Stats
 
