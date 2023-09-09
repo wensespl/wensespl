@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wensespl.wensespl&query_only=true&format=true" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wensespl.wensespl&format=true" />
 
 ## Hi 👋 I am Wenses!
 I'm a Computer Science student interested in Deep Learning (DL).
