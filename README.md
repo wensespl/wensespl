@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wensespl.wensespl)
+
 ## Hi 👋 I am Wenses!
 I'm a Computer Science student interested in Deep Learning (DL).
 
