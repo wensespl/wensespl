@@ -6,8 +6,8 @@ I'm a Computer Science student interested in Deep Learning (DL).
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,py,javascript,ts,express,mongodb,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,materialui,postgres,redis,mysql,html,css,vscode,figma,git" />
 </div>
 
 <br/>
