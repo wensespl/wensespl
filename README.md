@@ -3,7 +3,7 @@
 ## Hi 👋 I am Wenses!
 I'm a Computer Science student interested in Deep Learning (DL).
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wensespl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wensespl&theme=radical)](https://git.io/streak-stats)
 
 ## Github Stats
 
