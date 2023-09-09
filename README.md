@@ -9,7 +9,7 @@ I'm a Computer Science student interested in Deep Learning (DL).
 
 ![Wensespl's github stats](https://wensespl-github-readme-stats.vercel.app/api?username=wensespl&show_icons=true&theme=radical)
 
-![Top Langs](https://wensespl-github-readme-stats.vercel.app/api/top-langs/?username=wensespl&theme=radical)
+![Top Langs](https://wensespl-github-readme-stats.vercel.app/api/top-langs/?username=wensespl&theme=radical&layout=donut)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/wensespl)
 
